@@ -20,11 +20,10 @@ If you have any question, please contact this e-mail: <bingly@foxmail.com>.
 @ARTICLE{10404009,
   author={Cai, Bing and Lu, Gui-Fu and Li, Hua and Song, Weihong},
   journal={IEEE Transactions on Multimedia}, 
-  title={Tensorized scaled simplex representation for multi-view clustering}, 
+  title={Tensorized Scaled Simplex Representation for Multi-View Clustering}, 
   year={2024},
-  volume={},
+  volume={26},
   number={},
-  pages={1-12},
-  doi={10.1109/TMM.2024.3355649}
+  pages={6621-6631}
 }
 ```
